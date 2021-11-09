@@ -1,0 +1,40 @@
+.box {
+  width: 80%;
+  height: 705px;
+  background-color: #fff;
+  border: 1px solid black;
+  margin: 50px;
+}
+
+.blackBox {
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  color: white;
+  border: 1px solid black;
+}
+
+.blueBerry {
+  width: 150px;
+  height: 150px;
+  background-color: #4a8bed;
+  color: white;
+  border: 1px solid #4a8bed;
+}
+.policeBox {
+  width: 150px;
+  height: 150px;
+  background-color: #224d65;
+  color: white;
+  border: 1px solid #224d65;
+}
+.oxfordBlue {
+  position: relative;
+
+  left: 85.6%;
+  width: 150px;
+  height: 150px;
+  background-color: #08184f;
+  color: white;
+  border: 1px solid #08184f;
+}
